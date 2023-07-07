@@ -246,7 +246,7 @@ body {
         width: 100%;
     }
 
-    .topNav a:not(:first-child) {
+    .topNav a:not(first-child) {
         display: none;
     }
     .topNav a.icon {
